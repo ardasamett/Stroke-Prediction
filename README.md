@@ -28,7 +28,6 @@ The algorithm works as far as I've tested. If bugs are reported via feedback, I 
 
 1.  [Importing Libraries]
 2.  [Frist Look]
-    
 3.  [Data Preprocessing]
     3.1.  [Categorical Encoding]
     a.  [Polynomial Values]
