@@ -55,5 +55,7 @@ The algorithm works as far as I've tested. If bugs are reported via feedback, I 
 <hr>
 
 **Dataset Link:** [stroke prediction dataset (Kaggle)](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
+
 **My Analysis on Kaggle:**  [🔥Stroke Prediction | w/Compare ML Models Function](https://www.kaggle.com/sametardaerdogan/stroke-prediction-w-compare-ml-models-function)
+
 **My Kaggle Profile:** [Samet Arda Erdogan](https://www.kaggle.com/sametardaerdogan)
